@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World!"
 date:   2017-08-08 19:07:06 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+It's been a long time coming - I finally spent a few minutes and built a quick site with Jekyll & GitHub pages for a domain I bought *months* ago!
+I'm looking forward to using this as my new note-taking repository, and to share some projects that are beginning to formulate in my mind.
+I'll be leaving the below guide as a self-reference, in the future I'll definitely be using it for generating my notes.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
