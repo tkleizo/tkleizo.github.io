@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  "Data Science Bundle!"
 date:   2017-08-30 10:14:06 -0700
+permalink: /datasciencebundle/
 categories:
 - Data Science
 - Python

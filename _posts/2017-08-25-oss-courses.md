@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: default
 title:  "Back to School (Open Source School)"
 date:   2017-08-25 13:24:06 -0700
+permalink: /oss/
 categories:
 - MOOC
 - Data Science

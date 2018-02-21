@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "Hello World!"
 date:   2017-08-08 19:07:06 -0700
 categories: jekyll update
+permalink: /helloworld/
 ---
 
 It's been a long time coming - I finally spent a few minutes and built a quick site with Jekyll & GitHub pages for a domain I bought *months* ago!
